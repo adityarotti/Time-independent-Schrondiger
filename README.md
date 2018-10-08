@@ -1,5 +1,4 @@
 # Time-independent-Schrondiger
-Solving the 1/2 D Schrondinger equation. 
 
 Solutions to 1D Schrondinger equation:
 <img src="https://github.com/adityarotti/Time-independent-Schrondiger/blob/master/figures/1D_SW_eigenstates.gif" width="33%"></img>
